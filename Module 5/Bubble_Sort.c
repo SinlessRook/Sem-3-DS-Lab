@@ -35,3 +35,11 @@ void bubbleSort(int lst[],int n)
         }
     }
 }
+// Output
+// Enter the Length of Array:5
+// Enter the element 1:2
+// Enter the element 2:3
+// Enter the element 3:1
+// Enter the element 4:7
+// Enter the element 5:1
+// 1	1	2	3	7	
