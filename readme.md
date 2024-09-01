@@ -13,5 +13,5 @@ This repository contains 5 modules developed in C. Each module focuses on a spec
 ### Module 3
 ### Module 4
 ### Module 5
-- ##### [Hello World](./Module%205/Hello_World.c)
-- ##### [Hello World](./Module%205/Hello_World.c)
+- ##### [Bubble Sort](./Module%205/Bubble_Sort.c)
+- ##### [Selection Sort](./Module%205/Selection_Sort.c)
