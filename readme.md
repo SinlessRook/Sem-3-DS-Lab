@@ -14,6 +14,7 @@ This repository contains 5 modules developed in C. Each module focuses on a spec
 - [Binary Search](./Module%202/Binary_search.c)
 - [Stack](./Module%202/Stack.c)
 - [Circular Queue](./Module%202/Circular_Queue.c)
+- [Double Ended Queue](./Module%202/Double_EndedQueue.c)
 ### Module 3
 ### Module 4
 ### Module 5
