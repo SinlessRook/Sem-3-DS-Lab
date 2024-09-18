@@ -1,15 +1,7 @@
-// Algorithm
-// 1. Define a function `factorial` that calculates the factorial of a number using recursion.
-//    - Base Case: If `n` is 0 or 1, return 1.
-//    - General Case: Return `n` multiplied by the factorial of `n-1`.
-// 2. In the `main` function:
-//    - Declare variables `num` and `Fact`.
-//    - Prompt the user to enter a number and read the input.
-//    - Check if the number is negative.
-//      - If negative, print an error message.
-//      - If non-negative, calculate the factorial using the `factorial` function and display the result.
+//Algorithm
+//
 
-// Code
+//Code
 #include <stdio.h>
 
 // Function to calculate factorial using recursion
@@ -52,6 +44,6 @@ int main()
     return 0;
 }
 
-// Output
+//Output
 // Enter the Number: 4
 // Factorial: 24
