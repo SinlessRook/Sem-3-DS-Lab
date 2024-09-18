@@ -1,3 +1,4 @@
+//Code
 #include<stdio.h>
 
 void Binary_Search(int lst[],int n,int target);
