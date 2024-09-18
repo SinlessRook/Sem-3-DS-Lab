@@ -1,6 +1,3 @@
-//Algorithm
-//1.Start
-
 //Code
 #include <stdio.h>
 
