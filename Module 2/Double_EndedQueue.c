@@ -1,3 +1,4 @@
+//Code
 #include <stdio.h>
 
 int MAX_SIZE=10;
