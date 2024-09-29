@@ -15,6 +15,7 @@ This repository contains 5 modules developed in C. Each module focuses on a spec
 - [Stack](./Module%202/Stack.c)
 - [Circular Queue](./Module%202/Circular_Queue.c)
 - [Double Ended Queue](./Module%202/Double_EndedQueue.c)
+- [Postfix Evaluvation](./Module%202/Postfix_Evaluvation.c)
 ### Module 3
 ### Module 4
 ### Module 5
