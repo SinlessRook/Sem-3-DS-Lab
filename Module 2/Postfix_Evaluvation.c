@@ -1,5 +1,3 @@
-//Algorithm
-
 //Code
 #include <stdio.h>
 
