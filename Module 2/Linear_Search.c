@@ -35,3 +35,12 @@ int main()
     
     return 0;
 }
+
+//Output
+// Enter the length of array:4
+// Enter element 1:1
+// Enter element 2:2
+// Enter element 3:3
+// Enter element 4:4
+// Enter the Element to Search For:5
+// Element Not found in array!!
