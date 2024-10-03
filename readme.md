@@ -12,6 +12,7 @@ This repository contains 5 modules developed in C. Each module focuses on a spec
 - [Factorial Of a Number](./Module%201/Factorial_Recurssion.c)
 ### Module 2
 - [Binary Search](./Module%202/Binary_search.c)
+- [Linear Search](./Module%202/Linear_Search.c)
 - [Stack](./Module%202/Stack.c)
 - [Circular Queue](./Module%202/Circular_Queue.c)
 - [Double Ended Queue](./Module%202/Double_EndedQueue.c)
