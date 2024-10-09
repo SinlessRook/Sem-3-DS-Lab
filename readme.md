@@ -18,8 +18,8 @@ This repository contains 5 modules developed in C. Each module focuses on a spec
 - [Double Ended Queue](./Module%202/Double_EndedQueue.c)
 - [Postfix Evaluvation](./Module%202/Postfix_Evaluvation.c)
 ### Module 3
-
-- [Single Linked List](./Module%203/Single_Linked_List.c) 
+- [Single Linked List](./Module%203/Single_Linked_List.c)
+- [Stack Using Linked List](./Module%203/Stack_Using_Linked_List.c)
 ### Module 4
 ### Module 5
 - [Bubble Sort](./Module%205/Bubble_Sort.c)
