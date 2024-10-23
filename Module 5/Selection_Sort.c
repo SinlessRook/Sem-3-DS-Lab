@@ -27,7 +27,7 @@ void SelectionSort(int lst[],int n,int lst_new[])
     for(int i=0;i<n;i++)
     {
         min = lst[i];
-        for(int j=i;j<n;j++)
+        for(int j=i+1;j<n;j++)
         {
             if(min>lst[j])
             {
