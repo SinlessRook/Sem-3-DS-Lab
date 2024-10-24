@@ -24,3 +24,5 @@ This repository contains 5 modules developed in C. Each module focuses on a spec
 ### Module 5
 - [Bubble Sort](./Module%205/Bubble_Sort.c)
 - [Selection Sort](./Module%205/Selection_Sort.c)
+- [Insertion Sort](./Module%205/Insertion_Sort.c)
+- [Merge Sort](./Module%205/Merge_Sort.c)
