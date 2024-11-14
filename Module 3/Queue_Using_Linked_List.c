@@ -20,7 +20,7 @@ void InsertAtEnd(int item);
 void Display();
 void DeleteAtBeginning();
 
-//Stack Functions
+//Queue Functions
 void enqueue(int item);
 void dequeue();
 void peek();
