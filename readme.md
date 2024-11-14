@@ -22,6 +22,7 @@ This repository contains 5 modules developed in C. Each module focuses on a spec
 - [Stack Using Linked List](./Module%203/Stack_Using_Linked_List.c)
 - [Queue Using Linked List](./Module%203/Queue_Using_Linked_List.c)
 ### Module 4
+- [Binary Search Tree](./Module%204/Binary_Search_Tree.c)
 ### Module 5
 - [Bubble Sort](./Module%205/Bubble_Sort.c)
 - [Selection Sort](./Module%205/Selection_Sort.c)
