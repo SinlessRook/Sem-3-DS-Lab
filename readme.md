@@ -27,3 +27,4 @@ This repository contains 5 modules developed in C. Each module focuses on a spec
 - [Selection Sort](./Module%205/Selection_Sort.c)
 - [Insertion Sort](./Module%205/Insertion_Sort.c)
 - [Merge Sort](./Module%205/Merge_Sort.c)
+- [Quick Sort](./Module%205/Quick_Sort.c)
